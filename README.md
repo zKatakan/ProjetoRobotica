@@ -9,6 +9,8 @@ O projeto consiste em realizar uma simulação no WeBots utilizando o robô e-pu
 * O robô deve empurrar a caixa.
 *	Após empurrar a caixa, o robô deve encerrar sua navegação e começar a girar em seu próprio eixo
 
+Você pode acessar o video da simulacao clicando [aqui](https://youtu.be/2unjslNR5PY)
+
 # 2. METODOLOGIA
 
 Para alcançar os objetivos propostos, foi decidido que o melhor método foi de utilizar as posições das caixas iniciais e salva-las em uma matriz no robô, assim, o robô saberia quais são todas as posições originais das caixas, então caso ele deslocasse uma caixa (no caso, a caixa mais leve) de sua posição original, ele para e começa a girar em seu eixo, o código “PosicaoCaixas.c”, disponibilizado pelo professor, foi empregado para acessar as posições de todas as caixas e envia-las para o robô.
@@ -123,4 +125,3 @@ Nesse trecho temos:
     }
 
 ```
-
