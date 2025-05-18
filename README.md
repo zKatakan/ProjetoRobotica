@@ -1,3 +1,7 @@
+# INTEGRANTES
+* LUCAS ANTUNES SAMPAIO – R.A: 24.122.056-5
+* ROMULO CARNEIRO DE OLIVEIRA CANAVESSO - R.A: 24.122.093-8
+
 # 1. DESCRICAO DO PROJETO
 O projeto consiste em realizar uma simulação no WeBots utilizando o robô e-puck com o objetivo de: 
 *	O robô deve navegar pelo cenário com diversas caixas. 
